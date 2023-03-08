@@ -1,4 +1,5 @@
 # Bioinfo Class 2023 - Data Analysis for Health Science
+HELLOU :D
 
 Simple overview of use/purpose.
 
