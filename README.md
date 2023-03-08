@@ -1,4 +1,4 @@
-# Project Title
+# Bioinfo Class 2023 - Data Analysis for Health Science
 
 Simple overview of use/purpose.
 
