@@ -64,20 +64,7 @@ df <- data.frame(numeros, nomes)
 - Neste exemplo, criamos um data frame simples com duas colunas: uma contendo números e outra contendo nomes. Primeiro, criamos dois vetores diferentes - um contendo números e outro contendo nomes - usando a função "c()" para concatenar os valores.
 - Em seguida, usamos a função "data.frame()" para criar um data frame que contém esses vetores. 
 
-- Ao executar este código, o R criará o data frame e o imprimirá no console, como abaixo:
-
-  numeros  nomes
-1       1   João
-
-2       2  Maria
-
-3       3  Pedro
-
-4       4    Ana
-
-5       5  Luiza
-
-
+- Execute o data frame e veja o resultado no painel CONSOLE, utilizando o seguinte atalho : ''Ctrl + Enter''. Veja o resultado!
 
 
 
