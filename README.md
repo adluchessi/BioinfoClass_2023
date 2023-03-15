@@ -7,11 +7,11 @@ R é uma linguagem de programação de código aberto e ambiente de desenvolvime
 A programação em R é realizada por meio da escrita de scripts ou funções que são executadas no ambiente R. Os scripts são arquivos de texto que contêm uma sequência de comandos R, que podem ser salvos e reutilizados posteriormente
 
 ## Getting Started
--1 - Instale o R e o RStudio
--2 - Aprenda os fundamentos da sintaxe: Depois de instalar o R e o RStudio, você pode começar a aprender os fundamentos da sintaxe do R, como atribuição de variáveis, operadores aritméticos, condicionais, loops e funções.
--3 - O R tem uma grande variedade de pacotes disponíveis que podem ajudá-lo a fazer coisas como análise de dados, modelagem estatística, aprendizado de máquina e visualização de dados. Comece explorando alguns pacotes populares, como dplyr, ggplot2 e tidyr
--4 - Tente trabalhar em projetos simples de análise de dados, como gráficos de barras ou de pontos.
--5 -Aprenda com a comunidade: O R tem uma grande comunidade de usuários e desenvolvedores que compartilham recursos úteis, como tutoriais, pacotes e fóruns de discussão. Use esses recursos para aprender com outras pessoas e expandir seu conhecimento do R.
+- 1 - Instale o R e o RStudio
+- 2 - Aprenda os fundamentos da sintaxe: Depois de instalar o R e o RStudio, você pode começar a aprender os fundamentos da sintaxe do R, como atribuição de variáveis, operadores aritméticos, condicionais, loops e funções.
+- 3 - O R tem uma grande variedade de pacotes disponíveis que podem ajudá-lo a fazer coisas como análise de dados, modelagem estatística, aprendizado de máquina e visualização de dados. Comece explorando alguns pacotes populares, como dplyr, ggplot2 e tidyr
+- 4 - Tente trabalhar em projetos simples de análise de dados, como gráficos de barras ou de pontos.
+- 5 -Aprenda com a comunidade: O R tem uma grande comunidade de usuários e desenvolvedores que compartilham recursos úteis, como tutoriais, pacotes e fóruns de discussão. Use esses recursos para aprender com outras pessoas e expandir seu conhecimento do R.
 
 ### Dependencies
 Windows:
@@ -39,28 +39,26 @@ Linux:
 ### Installing
 Para instalar o R, siga as etapas abaixo:
 
--1 - Acesse o site do R: Acesse o site oficial do R (https://www.r-project.org/) e clique no link "CRAN" na seção "Download" no lado esquerdo da página. Isso o levará à página de download do R.
+- 1 - Acesse o site do R: Acesse o site oficial do R (https://www.r-project.org/) e clique no link "CRAN" na seção "Download" no lado esquerdo da página. Isso o levará à página de download do R.
 
--2 - Selecione o seu sistema operacional: Na página de download, clique no link que corresponde ao seu sistema operacional (Windows, Mac ou Linux). Isso o levará à página de download específica para o seu sistema operacional.
+- 2 - Selecione o seu sistema operacional: Na página de download, clique no link que corresponde ao seu sistema operacional (Windows, Mac ou Linux). Isso o levará à página de download específica para o seu sistema operacional.
 
--3 - Baixe e instale o R: Na página de download específica do seu sistema operacional, clique no link para baixar a versão mais recente do R. Depois de baixar o arquivo de instalação, execute-o e siga as instruções na tela para instalar o R em seu computador.
+- 3 - Baixe e instale o R: Na página de download específica do seu sistema operacional, clique no link para baixar a versão mais recente do R. Depois de baixar o arquivo de instalação, execute-o e siga as instruções na tela para instalar o R em seu computador.
 
 
 ### Executing program
 - Abra o R: Depois de instalar o R, abra o programa. No Windows, o R pode ser aberto a partir do menu Iniciar. No Mac, o R pode ser aberto a partir do Launchpad ou da pasta Applications.
 
-- Digite o seguinte código para começar a treinar: 
+->Digite o seguinte código para começar a treinar: 
 
 
-# Exemplo de criação de um data frame em R
-
-# Criando um vetor de números
+- Criando um vetor de números
 numeros <- c(1, 2, 3, 4, 5)
 
-# Criando um vetor de strings
+- Criando um vetor de strings
 nomes <- c("João", "Maria", "Pedro", "Ana", "Luiza")
 
-# Criando um data frame com os vetores de números e strings
+- Criando um data frame com os vetores de números e strings
 df <- data.frame(numeros, nomes)
 
 - Neste exemplo, criamos um data frame simples com duas colunas: uma contendo números e outra contendo nomes. Primeiro, criamos dois vetores diferentes - um contendo números e outro contendo nomes - usando a função "c()" para concatenar os valores.
@@ -70,9 +68,13 @@ df <- data.frame(numeros, nomes)
 
   numeros  nomes
 1       1   João
+
 2       2  Maria
+
 3       3  Pedro
+
 4       4    Ana
+
 5       5  Luiza
 
 
