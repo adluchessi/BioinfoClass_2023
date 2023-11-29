@@ -1,4 +1,4 @@
-# Bioinfo Class 2023 - Data Analysis for Health Science
+# Bioinfo Class 2023 - Data Analysis for Health Science - RENORBIO
 HELLOU :D
 
 R é uma linguagem de programação de código aberto e ambiente de desenvolvimento integrado (IDE) para computação estatística e gráficos. Ele foi criado por Ross Ihaka e Robert Gentleman na Universidade de Auckland, Nova Zelândia em 1993. Desde então, tornou-se uma das linguagens de programação mais populares para análise de dados e ciência de dados. Possui uma ampla variedade de funções estatísticas, incluindo testes de hipóteses, análise de regressão, análise de variação e análise de dados de séries temporais. Ele também possui muitas funções gráficas incorporadas para criar visualizações de dados estáticos e dinâmicos. Além disso, R possui muitas bibliotecas de código aberto que podem ser facilmente baixadas e adicionadas ao ambiente R para estender suas funcionalidades.
